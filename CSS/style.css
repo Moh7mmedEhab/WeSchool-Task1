@@ -60,7 +60,7 @@ header {
   
   left: 0px;
   
-  backdrop-filter: blur(0.15em);
+  backdrop-filter: blur(0.12em);
   
 }
 
@@ -310,15 +310,17 @@ footer {
   
   font-weight: bold;
   
-  color: white;
+  color: white
+  
+  padding: 20px;
   
 }
 
 .icon-c {
   
-  width: 25%;
+  width: 30%;
   
-  height: 15vh;
+  height: 50%;
   
   padding: 25px;
   
